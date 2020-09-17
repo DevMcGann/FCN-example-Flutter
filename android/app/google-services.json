@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187280065332",
+    "firebase_url": "https://pushexampleflutter.firebaseio.com",
+    "project_id": "pushexampleflutter",
+    "storage_bucket": "pushexampleflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187280065332:android:22fd3ee5771447af7b9b61",
+        "android_client_info": {
+          "package_name": "com.example.pushnotificationschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187280065332-bnfsvpd8luhm33jo4e8g8iqibigovlpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pushnotificationschat",
+            "certificate_hash": "4cfc10eb56c20cd9989a3721566dc9914eb129b0"
+          }
+        },
+        {
+          "client_id": "187280065332-pt2u34jvk971n6kh4l4l9mf0shki21no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaL4ncb9sRpe_PEa0CO8MGTdk4R-KrCUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187280065332-pt2u34jvk971n6kh4l4l9mf0shki21no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
